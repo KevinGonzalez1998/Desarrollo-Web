@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+header { 
+    width: 100%;
+    display: flex;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    color: aliceblue;
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.692);
+    border-radius: 5px;
+    padding: 10px;
+}
+body {
+    background-image: url(https://previews.123rf.com/images/belchonoksun/belchonoksun1406/belchonoksun140600039/29387389-vector-matem%C3%A1tica-fondo-sin-fisuras-con-las-f%C3%B3rmulas-y-c%C3%A1lculos.jpg);
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 100%;
+    margin: 0%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    width: 70%;
+    height: 30px;
+}
+.containerForm {
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.692);
+    padding: 30px;
+    height: 300px;
+    width: 500px;
+    border-radius: 40px;
+    margin: auto;
+}
+.separador{
+    height: 30px;
+}
